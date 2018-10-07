@@ -1,0 +1,5 @@
+{
+    "video": false,
+    "videosFolder": "cypress/videos",
+    "integrationFolder":"cypress/integration/Proactive"
+}
